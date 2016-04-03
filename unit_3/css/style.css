@@ -1,22 +1,25 @@
 body {
 	background-size: cover;
-	background-color: #770000;
+	background-color: #220000;
 	font-family: arial;
-	font-size: 14px;
+	font-size: 20px;
 	text-align: center;
+	font-weight: bold;
 }
 h1 {
 	color: #BB1111;
 	text-align: center;
 }
 ul	{
-	background-color: white;
 	font-style: italic;
+}
+li	{
+	text-align: center;
 }
 #slogan {
 	font-style: italic;
 	font-family: arial;
 	text-align: center;
-	font-size: 20px;
+	font-size: 26px;
 	color: #0000ff;
 } 
