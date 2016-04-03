@@ -1,11 +1,18 @@
 body {
 	background-size: cover;
 	background-color: #77ffff;
+	font-family: arial;
+	font-size: 14px;
 }
 h1 {
 	color: #558833;
 }
+ul	{
+	background-color: white;
+	font-style: italic;
+}
 #slogan {
 	font-style: italic;
 	font-family: arial;
+	text-shadow: transparent;
 } 
