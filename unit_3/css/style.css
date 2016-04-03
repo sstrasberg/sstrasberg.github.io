@@ -12,6 +12,7 @@ h1 {
 }
 ul	{
 	font-style: italic;
+	list-style-type: none;
 }
 li	{
 	text-align: center;
