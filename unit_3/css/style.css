@@ -1,9 +1,7 @@
 body {
-	background-size: cover;
 	background-color: #FF4D60;
-	font-family: arial;
+	font-family: arial, helvetica, sans-serif;
 	font-size: 20px;
-	text-align: center;
 	font-weight: bold;
 }
 h1 {
@@ -14,12 +12,14 @@ ul	{
 	font-style: italic;
 	list-style-type: none;
 }
-li	{
-	text-align: center;
+#splash {
+	background:url(../images/Summer-happiness-photo.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:80vh;
 }
 #slogan {
 	font-style: italic;
-	font-family: arial;
 	text-align: center;
 	font-size: 26px;
 	color: #0000ff;
