@@ -14,6 +14,11 @@ ul	{
 	font-style: italic;
 	list-style-type: none;
 }
+#header {
+	background-color: #FF4D60;
+    border: 1px black solid;
+    padding: 20px;
+}
 #splash {
 	background:url(../images/gold-fall-foliage.jpg);
 	background-size:cover;
@@ -27,3 +32,23 @@ ul	{
 	color: #000000;
 	font-family: 'Chewy', cursive;
 } 
+#scope {
+	background-color: #19FF53;
+    border: 1px black solid;
+    padding: 20px;
+}
+#services {
+	background-color: #6912FF;
+    border: 1px black solid;
+    padding: 20px;
+}
+#contact {
+	background-color: #E703FF;
+    border: 1px black solid;
+    padding: 20px;
+}
+#copyright {
+	background-color: #FFD746;
+    border: 1px black solid;
+    padding: 20px;
+}
