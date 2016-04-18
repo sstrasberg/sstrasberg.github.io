@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Chewy);
 body {
-	background-color: #FF4D60;
+	background-color: white;
 	font-family: arial, helvetica, sans-serif;
 	font-size: 20px;
 	font-weight: bold;
@@ -15,7 +15,7 @@ ul	{
 	list-style-type: none;
 }
 #splash {
-	background:url(../images/Summer-happiness-photo.jpg);
+	background:url(../images/gold-fall-foliage.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:80vh;
