@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+body {
+	background-color: #FF4D60;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+h2 {
+	color: #A60000;
+	text-align: center;
+	font-family: 'Chewy', cursive;
+}
+ul	{
+	font-style: italic;
+	list-style-type: none;
+}
+#splash {
+	background:url(../images/Summer-happiness-photo.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:80vh;
+}
+#slogan {
+	font-style: italic;
+	text-align: center;
+	font-size: 26px;
+	color: #0000ff;
+	font-family: 'Chewy', cursive;
+} 
