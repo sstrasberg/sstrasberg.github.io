@@ -25,6 +25,14 @@ li{
 a {
 	text-decoration: none;
 }
+.clearfix:after{
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	content:"hello";
+	display: block;
+	clear:both;
+	}
 #header {
 	background-color: #FF4D60;
     border: 1px black solid;
