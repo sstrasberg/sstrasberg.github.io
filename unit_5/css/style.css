@@ -14,6 +14,9 @@ ul	{
 	font-style: italic;
 	list-style-type: none;
 }
+li{
+	float: left;
+}
 a {
 	text-decoration: none;
 }
@@ -38,7 +41,6 @@ a {
 	background-color: #19FF53;
     border: 1px black solid;
     padding: 20px;
-    float: left;
 }
 #services {
 	background-color: #16DDFF;
