@@ -14,13 +14,16 @@ ul	{
 	font-style: italic;
 	list-style-type: none;
 }
+li {
+	text-decoration: none;
+}
 #header {
 	background-color: #FF4D60;
     border: 1px black solid;
     padding: 20px;
 }
 #splash {
-	background:url(../images/gold-fall-foliage.jpg);
+	background-image:url(../images/gold-fall-foliage.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 }
