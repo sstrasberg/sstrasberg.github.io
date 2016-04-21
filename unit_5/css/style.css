@@ -13,6 +13,7 @@ h2 {
 ul	{
 	font-style: italic;
 	list-style-type: none;
+	float: left;
 }
 a {
 	text-decoration: none;
