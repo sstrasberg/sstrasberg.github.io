@@ -22,6 +22,14 @@ ul	{
 	background-color: #000;
 	width: 12%;
 }
+.rectangles > li{
+	float: left;
+	margin: 15px;
+	padding: 10px;
+	border: 1px black solid;
+	background-color: #000;
+	width: 20%;
+}
 a {
 	text-decoration: none;
 }
