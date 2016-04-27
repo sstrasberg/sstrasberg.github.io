@@ -14,7 +14,7 @@ ul	{
 	font-style: italic;
 	list-style-type: none;
 }
-#scope > li{
+.bubbles > li{
 	float: left;
 	margin: 15px;
 	padding: 10px;
