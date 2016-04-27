@@ -5,6 +5,9 @@ body {
 	font-size: 20px;
 	font-weight: bold;
 }
+nav {
+	float: right;
+}
 h2 {
 	color: #A60000;
 	text-align: center;
