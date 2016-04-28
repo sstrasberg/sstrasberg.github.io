@@ -83,7 +83,7 @@ a {
 	background-image:url(../images/gold-fall-foliage.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
-	height:80vh;
+	/*height:80vh;*/
 	text-align: center;
 }
 #slogan {
@@ -92,8 +92,8 @@ a {
 	font-size: 40px;
 	color: #000000;
 	font-family: 'Chewy', cursive;
-	padding: 300px 0px 0px 500px;
-	width: 700px;
+	/*padding: 300px 0px 0px 500px;*/
+	/*width: 700px;*/
 } 
 #scope {
 	background-color: #19FF53;
