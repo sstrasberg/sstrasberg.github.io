@@ -1,0 +1,119 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+body {
+	background-color: white;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+nav {
+	float: right;
+	text-align: center;
+}
+nav a {
+	margin: 10px;
+	padding: 10px;
+	background-color: #fff;
+	border: 2px black solid;
+}
+nav a:link{
+	color: #7F00DA;
+}
+nav a:visited{
+	color: #7F00DA;
+}
+nav a:hover {
+	color: #7F00DA;
+	background-color: #869670;
+}
+nav a:active {
+	color: #7F00DA;
+}
+h1 {
+	text-align: center;
+	font-family: 'Chewy', cursive;
+}
+h2 {
+	color: #A60000;
+	text-align: center;
+	font-family: 'Chewy', cursive;
+}
+ul	{
+	font-style: italic;
+	list-style-type: none;
+}
+.bubbles > li{
+	float: left;
+	margin: 10px;
+	padding: 40px;
+	border: 2px black solid;
+	background-color: #fff;
+	width: 10%;
+	height: 80px;
+	font-size: 1em;
+	text-align: center;
+}
+.rectangles > li{
+	float: left;
+	margin: 20px;
+	padding: 90px;
+	border: 2px black solid;
+	background-color: #fff;
+	width: 10%;
+	height: 80px;
+	font-size: 1.75em;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+}
+.clearfix:after{
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	content:"hello";
+	display: block;
+	clear:both;
+	}
+#header {
+	background-color: #FF4D60;
+    border: 1px black solid;
+    padding: 20px;
+}
+#splash {
+	background-image:url(../images/gold-fall-foliage.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	/*height:80vh;*/
+	text-align: center;
+}
+#slogan {
+	font-style: italic;
+	text-align: center;
+	font-size: 40px;
+	color: #000000;
+	font-family: 'Chewy', cursive;
+	/*padding: 300px 0px 0px 500px;*/
+	/*width: 700px;*/
+} 
+#scope {
+	background-color: #19FF53;
+    border: 1px black solid;
+    padding: 20px;
+}
+#services {
+	background-color: #16DDFF;
+    border: 1px black solid;
+    padding: 20px;
+}
+#contact {
+	background-color: #E703FF;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+#copyright {
+	background-color: #FFD746;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
