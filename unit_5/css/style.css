@@ -92,7 +92,8 @@ a {
 	font-size: 40px;
 	color: #000000;
 	font-family: 'Chewy', cursive;
-	padding: 100px 0px 0px 0px;
+	padding: 200px 0px 0px 0px;
+	width: 200px;
 } 
 #scope {
 	background-color: #19FF53;
