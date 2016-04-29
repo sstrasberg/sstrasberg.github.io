@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Chewy);
+* { margin:0; padding:0; box-sizing:border-box;}
 body {
 	background-color: white;
 	font-family: arial, helvetica, sans-serif;
@@ -32,38 +33,44 @@ h1 {
 	text-align: center;
 	font-family: 'Chewy', cursive;
 	width: 500px;
-	padding: 0px 650px;
+	/* padding: 0px 650px; */
+	margin: 1em auto;
 }
 h2 {
 	color: #A60000;
-	text-align: center;
+	text-align: left;
 	font-family: 'Chewy', cursive;
+	margin: 0 auto;
+	width: 400px;
 }
 ul	{
 	font-style: italic;
 	list-style-type: none;
+	width: 60em;
+	margin: auto;
 }
 .bubbles > li{
 	float: left;
-	margin: 10px;
-	padding: 40px;
+	margin: .5%;
 	border: 2px black solid;
 	background-color: #fff;
-	width: 10%;
-	height: 80px;
 	font-size: 1em;
 	text-align: center;
+	width: 32.33%;
+	padding: 5em;
+	min-height: 14em;
+	/* border-radius: .25em; */
 }
 .rectangles > li{
 	float: left;
-	margin: 20px;
-	padding: 90px;
+	margin: .5%;
 	border: 2px black solid;
 	background-color: #fff;
-	width: 10%;
-	height: 80px;
-	font-size: 1.75em;
+	width: 24%;
+	padding: 2em;
+	font-size: 1em;
 	text-align: center;
+	min-height: 7em;
 }
 a {
 	text-decoration: none;
@@ -90,22 +97,26 @@ a {
 }
 #slogan {
 	font-style: italic;
-	text-align: center;
+	/* text-align: left; */
 	font-size: 40px;
 	color: #000000;
 	font-family: 'Chewy', cursive;
-	padding: 300px 0px 0px 500px;
-	width: 700px;
+	padding: 300px 0 0;
+	width: 16em;
+	margin: auto;
 } 
 #scope {
 	background-color: #19FF53;
-    border: 1px black solid;
-    padding: 20px;
+	border: 1px black solid;
+	/* padding: 20px; */
+	/* width: 1200px; */
+	/* margin: auto; */
+	padding: 2em 0;
 }
 #services {
 	background-color: #16DDFF;
-    border: 1px black solid;
-    padding: 20px;
+	border: 1px black solid;
+	/* padding: 20px; */
 }
 #contact {
 	background-color: #E703FF;
