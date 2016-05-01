@@ -77,13 +77,13 @@ ul	{
 	padding: auto;
 	margin: auto;
 }*/
-li a:link {
+#scope a:link {
 	color: #7F00DA;
 }
-li a:visited {
+#scope a:visited {
 	color: #7F00DA;
 }
-ul a:hover
+#scope a:hover
 /*li a:hover*/ {
 	color: #7F00DA;
 	background-color: #869670;
