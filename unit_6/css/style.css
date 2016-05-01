@@ -83,7 +83,7 @@ a {
 	display: block;
 	clear:both;
 	}
-#header {
+header {
 	background-color: #FF4D60;
     border: 1px black solid;
     padding: 20px;
