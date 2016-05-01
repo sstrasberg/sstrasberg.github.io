@@ -83,7 +83,7 @@ li a:link {
 li a:visited {
 	color: #7F00DA;
 }
-ul > li a:hover
+ul a:hover
 /*li a:hover*/ {
 	color: #7F00DA;
 	background-color: #869670;
