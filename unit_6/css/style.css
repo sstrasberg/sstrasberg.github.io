@@ -68,8 +68,8 @@ ul	{
 	background-color: #fff;
 	font-size: 1em;
 	text-align: left;
-	width: 15.6%;
-	padding: 1em;
+	width: 32.33%;
+	padding: 3em;
 	min-height: 8em;
 	border-radius: 5%
 }
@@ -88,7 +88,7 @@ ul	{
 	color: #7F00DA;
 	background-color: #869670;
 }
-.rectangles > li{
+#services a{
 	float: left;
 	margin: .5%;
 	border: 2px black solid;
@@ -99,6 +99,17 @@ ul	{
 	text-align: center;
 	min-height: 7em;
 	border-radius: 5%
+}
+a:link {
+	color: #7F00DA;
+}
+a:visited {
+	color: #7F00DA;
+}
+a:hover
+/*li a:hover*/ {
+	color: #7F00DA;
+	background-color: #869670;
 }
 a {
 	text-decoration: none;
@@ -139,7 +150,7 @@ header {
 	/* padding: 20px; */
 	/* width: 1200px; */
 	/* margin: auto; */
-	padding: 2em 0;
+	padding: 2em 10em;
 }
 #services {
 	background-color: #16DDFF;
