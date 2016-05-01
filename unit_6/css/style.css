@@ -17,7 +17,7 @@ nav a {
 	border: 2px black solid;
 	border-radius: 10%
 }
-nav a:link a:visited {
+nav a:link :visited {
 	color: #7F00DA;
 }
 nav a:hover {
@@ -74,7 +74,7 @@ ul	{
 	padding: auto;
 	margin: auto;
 }
-li a:link a:visited {
+li a:link :visited {
 	color: #7F00DA;
 }
 li a:hover {
