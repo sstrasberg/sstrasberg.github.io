@@ -65,7 +65,6 @@ ul	{
 	min-height: 14em;
 }*/
 #scope {
-	background-color: #19FF53;
 	border: 1px black solid;
 	/* padding: 20px; */
 	/* width: 1200px; */
@@ -100,7 +99,6 @@ ul	{
 	background-color: #869670;
 }
 #services {
-	background-color: #16DDFF;
 	border: 1px black solid;
 	padding: 2em 10em;
 	/* padding: 20px; */
@@ -140,8 +138,7 @@ a {
 	clear:both;
 	}
 header {
-	background-color: #FF4D60;
-    border: 1px black solid;
+	border: 1px black solid;
     padding: 20px;
 }
 /*#splash {
@@ -166,14 +163,12 @@ header {
 	text-align: left;
 } 
 #contact {
-	background-color: #E703FF;
-    border: 1px black solid;
+	border: 1px black solid;
     padding: 20px;
     text-align: center;
 }
 #copyright {
-	background-color: #FFD746;
-    border: 1px black solid;
+	border: 1px black solid;
     padding: 20px;
     text-align: center;
 }
