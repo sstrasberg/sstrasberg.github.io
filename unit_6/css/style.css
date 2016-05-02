@@ -142,16 +142,19 @@ header {
     padding: 20px;
 }
 #splash {
-	background-image:url(../images/gold-fall-foliage.jpg);
+	background-image:url(../images/blue-sun-burst.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:80vh;
 	text-align: center;
 }
+#splash p {
+	margin: 2em;
+}
 #slogan {
 	font-style: italic;
 	/* text-align: left; */
-	font-size: 40px;
+	font-size: 1.5em;
 	color: #000000;
 	font-family: 'Chewy', cursive;
 	padding: 300px 0 0;
