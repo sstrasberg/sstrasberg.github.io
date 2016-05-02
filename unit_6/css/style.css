@@ -148,18 +148,19 @@ header {
 	height:80vh;
 	text-align: center;
 }
-#splash p {
+/*#splash p {
 	margin: 2em;
-}
+}*/
 #slogan {
 	font-style: italic;
 	/* text-align: left; */
 	font-size: 1.5em;
-	color: #000000;
-	font-family: 'Chewy', cursive;
-	padding: 300px 0 0;
+	color: #fff;
+	/*font-family: 'Chewy', cursive;*/
+	padding: 10em 0;
 	width: 16em;
 	margin: auto;
+	text-align: left;
 } 
 #contact {
 	background-color: #E703FF;
