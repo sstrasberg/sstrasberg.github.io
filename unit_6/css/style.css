@@ -166,7 +166,7 @@ a {
 #sub-slogan {
 	font-style: italic;
 	/* text-align: left; */
-	font-size: 1em;
+	font-size: 1.2em;
 	color: #fff;
 	/*font-family: 'Chewy', cursive;*/
 	padding: 1em 0;
@@ -182,6 +182,7 @@ ul	{
 	margin: 0 0 10em 20em;
 	padding: 1em 0;
 	color: #EF5C08;
+	font-size: 1.2em;
 }
 #contact {
 	border: 1px black solid;
