@@ -50,8 +50,9 @@ h2 {
 ul	{
 	font-style: italic;
 	list-style-type: none;
-	width: 60em;
+	width: 10em;
 	margin: auto;
+	color: #fff;
 }
 /*.bubbles > li{
 	float: left;
@@ -157,7 +158,7 @@ header {
 	font-size: 1.5em;
 	color: #fff;
 	/*font-family: 'Chewy', cursive;*/
-	padding: 10em 0;
+	padding: 10em 0 0;
 	width: 16em;
 	margin: auto;
 	text-align: left;
