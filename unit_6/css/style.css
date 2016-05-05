@@ -152,9 +152,9 @@ header {
 	font-size: 1.5em;
 	color: #fff;
 	/*font-family: 'Chewy', cursive;*/
-	padding: 10em 0 0;
+	padding: 5em 0 0;
 	width: 16em;
-	margin: auto;
+	margin: 5em 0 1em 10em;
 	text-align: left;
 } 
 #sub-slogan {
@@ -164,16 +164,16 @@ header {
 	color: #fff;
 	/*font-family: 'Chewy', cursive;*/
 	padding: 1em 0;
-	width: 16em;
-	margin: auto;
+	width: 20%;
+	margin: 0 0 1em 18em;
 	text-align: left;
 	}
 ul	{
 	font-style: italic;
 	list-style-type: none;
-	width: 30em;
-	margin: auto;
-	padding: 1em 10em 0;
+	width: 30%;
+	margin: 0 0 10em 20em;
+	padding: 1em 0;
 	color: #fff;
 }
 #contact {
