@@ -9,6 +9,15 @@ body {
 	font-size: 20px;
 	/*font-weight: bold;*/
 }
+header {
+	border: 1px black solid;
+    padding: 20px;
+    background-color: #1A18FF;
+}
+header p {
+	color: #fff;
+	font-family: 'Chewy', cursive;
+}
 nav {
 	float: right;
 	text-align: center;
@@ -132,10 +141,7 @@ a {
 	display: block;
 	clear:both;
 	}
-header {
-	border: 1px black solid;
-    padding: 20px;
-}
+
 /*#splash {
 	background-image:url(../images/blue-sun-burst.jpg);
 	background-size:cover;
