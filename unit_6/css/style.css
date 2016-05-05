@@ -47,13 +47,7 @@ h2 {
 	color: #fff;
 	/*width: 400px;*/
 }
-ul	{
-	font-style: italic;
-	list-style-type: none;
-	width: 10em;
-	margin: auto;
-	color: #fff;
-}
+
 /*.bubbles > li{
 	float: left;
 	margin: .5%;
@@ -174,6 +168,14 @@ header {
 	margin: auto;
 	text-align: left;
 	}
+ul	{
+	font-style: italic;
+	list-style-type: none;
+	width: 30em;
+	margin: auto;
+	padding: 1em 10em 0;
+	color: #fff;
+}
 #contact {
 	border: 1px black solid;
     padding: 20px;
