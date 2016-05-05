@@ -12,7 +12,7 @@ body {
 header {
 	border: 1px black solid;
     padding: 20px;
-    background-color: #1A18FF;
+    background-color: #05309E;
 }
 header p {
 	color: #fff;
@@ -173,14 +173,15 @@ a {
 	width: 20%;
 	margin: 0 0 1em 18em;
 	text-align: left;
-	}
+	color: #EF5C08;
+}
 ul	{
 	font-style: italic;
 	list-style-type: none;
 	width: 30%;
 	margin: 0 0 10em 20em;
 	padding: 1em 0;
-	color: #fff;
+	color: #EF5C08;
 }
 #contact {
 	border: 1px black solid;
