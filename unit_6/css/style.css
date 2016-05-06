@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Fjalla+One);
 * { margin:0; padding:0; box-sizing:border-box;}
 body {
-	background-image:url(../images/blue-sun-burst.jpg);
+	/*background-image:url(../images/blue-sun-burst.jpg);*/
 	background-size:cover;
 	background-repeat:no-repeat;
 	/*background-color: white;*/
@@ -162,6 +162,7 @@ a {
 	width: 16em;
 	margin: 5em 0 1em 10em;
 	text-align: left;
+	background-image:url(../images/blue-sun-burst.jpg);
 } 
 #sub-slogan {
 	font-style: italic;
