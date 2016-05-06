@@ -22,12 +22,13 @@ header p {
 nav {
 	float: right;
 	text-align: center;
+	margin-top: .5em;
 }
 nav a {
-	margin: .3em;
-	padding: .3em;
+	margin: .25em;
+	padding: 1em;
 	color: #fff;
-	font-size: 2em;
+	font-size: 1em;
 	font-family: 'Fjalla One', sans-serif;
 }
 /*nav a:link {
@@ -83,11 +84,11 @@ h2 {
 	border: 2px black solid;
 	background-color: #05309E;
 	font-size: 1em;
-	text-align: left;
+	text-align: center;
 	width: 32.33%;
-	padding: 3em;
-	min-height: 8em;
-	border-radius: 5%
+	/* padding: 4em 2em 3em; */
+	min-height: 10em;
+	border-radius: .25em;
 }
 /*.bubbles > li > a{
 	padding: auto;
@@ -95,6 +96,7 @@ h2 {
 }*/
 #scope a:link {
 	color: #fff;
+	position: relative;
 }
 #scope a:visited {
 	color: #fff;
@@ -117,7 +119,7 @@ h2 {
 	font-size: 1em;
 	text-align: left;
 	min-height: 7em;
-	border-radius: 5%
+	border-radius: 5%;
 }
 #services a:link {
 	color: #fff;
@@ -141,47 +143,34 @@ a {
 	}
 
 #splash {
-	background:url(../images/blue-sun-burst.jpg) no-repeat center center scroll;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
+	background: url(../images/blue-sun-burst.jpg) no-repeat center center scroll;
 	background-size:cover;
-	/*background-repeat:no-repeat; */
 	height:80vh;
-	text-align: center;
+	/* position: relative; */
 }
 /*#splash p {
 	margin: 2em;
 }*/
 #slogan {
 	font-style: italic;
-	font-size: 1.5em;
+	font-size: 2em;
 	color: #fff;
-	padding: 5em 0 0;
-	width: 16em;
-	margin: 5em 0 1em 10em;
 	text-align: left;
 	/*background-image:url(../images/blue-sun-burst.jpg);
 	background-repeat:no-repeat;*/
+	font-weight: normal;
 } 
 #sub-slogan {
 	font-style: italic;
-	/* text-align: left; */
-	font-size: 1.2em;
-	padding: 1em 0;
-	width: 20%;
-	margin: 0 0 1em 18em;
+	font-size: 1.5em;
 	text-align: left;
 	color: #EF5C08;
+	margin: 1em 0;
 }
 ul	{
 	font-style: italic;
 	list-style-type: none;
-	width: 30%;
-	margin: 0 0 10em 20em;
-	padding: 1em 0;
 	color: #EF5C08;
-	font-size: 1.2em;
 	text-align: left;
 }
 #contact {
