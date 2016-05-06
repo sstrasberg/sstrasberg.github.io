@@ -163,6 +163,7 @@ a {
 	margin: 5em 0 1em 10em;
 	text-align: left;
 	background-image:url(../images/blue-sun-burst.jpg);
+	background-repeat:no-repeat;
 } 
 #sub-slogan {
 	font-style: italic;
