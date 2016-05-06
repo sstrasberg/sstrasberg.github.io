@@ -148,16 +148,14 @@ a {
 	background-repeat:no-repeat;
 	height:80vh;
 	text-align: center;
-}*/
+}
 /*#splash p {
 	margin: 2em;
 }*/
 #slogan {
 	font-style: italic;
-	/* text-align: left; */
 	font-size: 1.5em;
 	color: #fff;
-	/*font-family: 'Chewy', cursive;*/
 	padding: 5em 0 0;
 	width: 16em;
 	margin: 5em 0 1em 10em;
@@ -169,7 +167,6 @@ a {
 	font-style: italic;
 	/* text-align: left; */
 	font-size: 1.2em;
-	color: #fff;
 	/*font-family: 'Chewy', cursive;*/
 	padding: 1em 0;
 	width: 20%;
