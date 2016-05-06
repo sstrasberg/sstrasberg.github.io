@@ -79,7 +79,7 @@ h2 {
 	float: left;
 	margin: .5%;
 	border: 2px black solid;
-	background-color: #05309E;
+	background-color: #fff;
 	font-size: 1em;
 	text-align: left;
 	width: 32.33%;
@@ -92,13 +92,15 @@ h2 {
 	margin: auto;
 }*/
 #scope a:link {
-	color: #fff;
+	color: #7F00DA;
 }
 #scope a:visited {
-	color: #fff;
+	color: #7F00DA;
 }
-#scope a:hover { 
-	color: #EF5C08;
+#scope a:hover
+/*li a:hover*/ {
+	color: #7F00DA;
+	background-color: #869670;
 }
 #services {
 	border: 1px black solid;
