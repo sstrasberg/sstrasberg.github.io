@@ -43,10 +43,6 @@ nav a:visited {
 nav a:hover {
 	color: #EF5C08;
 }
-.wrapper {
-	width: 90%;
-	margin: auto;
-}
 #splash {
 	background: url(../images/blue-sun-burst.jpg) no-repeat;
 	background-size:cover;
