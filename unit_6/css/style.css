@@ -53,7 +53,9 @@ h2 {
 	text-align: center;
 	margin: 0 auto;
 	width: 50%;
-	color: #fff;
+	color: #000;
+	font-size: 1.5em;
+	font-family: 'Fjalla One', sans-serif;
 	/*width: 400px;*/
 }
 
@@ -110,7 +112,7 @@ h2 {
 	float: left;
 	margin: .5%;
 	border: 2px black solid;
-	background-color: #fff;
+	background-color: #05309E;
 	width: 24%;
 	padding: 2em;
 	font-size: 1em;
@@ -119,15 +121,13 @@ h2 {
 	border-radius: 5%
 }
 #services a:link {
-	color: #7F00DA;
+	color: #fff;
 }
 #services a:visited {
-	color: #7F00DA;
+	color: #fff;
 }
-#services a:hover
-/*li a:hover*/ {
-	color: #7F00DA;
-	background-color: #869670;
+#services a:hover {
+	color: #EF5C08;
 }
 a {
 	text-decoration: none;
