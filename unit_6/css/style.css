@@ -141,7 +141,7 @@ a {
 	}
 
 #splash {
-	background-image:url(../images/blue-sun-burst.jpg) no-repeat center center scroll;
+	background:url(../images/blue-sun-burst.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
