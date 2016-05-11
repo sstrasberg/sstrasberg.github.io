@@ -192,13 +192,24 @@ a {
 		font-size: 1.3em;
 	}
 @media only screen and (max-width: 900px) {
-	nav a {
-		display: block;
-	}
+	
 	#slogan {
 		font-size: 1.4em;
 	} 
 	#sub-slogan {
 		font-size: 1em;
+	}
+
+@media only screen and (max-width: 390px) {
+	
+	#slogan {
+		font-size: 1em;
+	} 
+	#sub-slogan {
+		font-size: .5em;
+	}
+	nav a {
+		display: block;
+		float: none;
 	}
 }
