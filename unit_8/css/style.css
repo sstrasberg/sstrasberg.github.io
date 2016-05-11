@@ -199,11 +199,12 @@ a {
 	#sub-slogan {
 		font-size: 1em;
 	}
-	#services a {
-	float: none;
-	width: 50%;
-	padding: 2em;
+	#services {
+		width: 50%;
+		margin: auto;
 	}
+	#services a {
+	width: auto;
 }
 
 @media only screen and (max-width: 600px) {
@@ -217,12 +218,8 @@ a {
 	nav a {
 		display: block;
 	}
-	#service {
-		width: 50%;
-		margin: auto;
-	}
+	
 	#services a {
 	font-size: .5em;
-	width: auto;
 	}
 }
