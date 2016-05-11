@@ -216,9 +216,13 @@ a {
 	}
 	nav a {
 		display: block;
-		float: none;
+	}
+	#service {
+		width: 50%;
+		margin: auto;
 	}
 	#services a {
 	font-size: .5em;
+	width: auto;
 	}
 }
