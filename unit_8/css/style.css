@@ -184,3 +184,11 @@ a {
     padding: .3em;
     text-align: center;
 }
+@media only screen and (max-width: 1224px) {
+	#slogan {
+	font-size: 1.7em;
+	} 
+	#sub-slogan {
+		font-size: 1.3em;
+	}
+}
