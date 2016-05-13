@@ -200,12 +200,12 @@ a {
 		font-size: 1em;
 	}
 	#services {
-		width: 50%;
+		width: 100%;
 		margin: auto;
-		border: none;
 	}
 	#services a {
-	width: auto;
+		width: 100%;
+	}
 }
 
 @media only screen and (max-width: 600px) {
