@@ -202,6 +202,7 @@ a {
 	#services {
 		width: 50%;
 		margin: auto;
+		border: none;
 	}
 	#services a {
 	width: auto;
