@@ -114,6 +114,7 @@ h2 {
 #scope a {
 	float: left;
 	margin: .5%;
+	padding: 2em;
 	border: 2px black solid;
 	background-color: #05309E;
 	font-size: 1em;
