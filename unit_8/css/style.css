@@ -227,7 +227,7 @@ a {
 	nav a {
 		display: block;
 	}
-	scope {
+	#scope {
 		width: 100%;
 	}
 	#scope a {
@@ -235,9 +235,20 @@ a {
 		font-size: .5em;
 	}
 	#services a {
-	font-size: .5em;
+		font-size: .5em;
 	}
 	h2 {
 		font-size: 1em;
+	}
+}
+@media only screen and (max-width: 520px) {
+	#scope {
+		padding: 1em;
+	}
+	#services {
+		padding: 1em;
+	}
+	h2 {
+		width: 100%;
 	}
 }
