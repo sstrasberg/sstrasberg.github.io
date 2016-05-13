@@ -199,6 +199,13 @@ a {
 	#sub-slogan {
 		font-size: 1em;
 	}
+	#scope {
+		width: 50%;
+		margin: auto;
+	}
+	#scope a {
+		width: 50%
+	}
 	#services {
 		width: 100%;
 		margin: auto;
@@ -219,8 +226,17 @@ a {
 	nav a {
 		display: block;
 	}
-	
+	scope {
+		width: 100%;
+	}
+	#scope a {
+		width: 100%;
+		font-size: .5em;
+	}
 	#services a {
 	font-size: .5em;
+	}
+	h2 {
+		font-size: 1em;
 	}
 }
